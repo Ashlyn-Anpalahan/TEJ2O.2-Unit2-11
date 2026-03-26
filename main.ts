@@ -38,5 +38,5 @@ input.onGesture(Gesture.Shake, function () {
         basic.showString(">")
         basic.showNumber(secondNumber)
     }
-    basic.showIcon(IconNames.Happy)
+    basic.showIcon(IconNames.Sad)
 })
