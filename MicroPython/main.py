@@ -28,4 +28,5 @@ while True:
             display.scroll(str(first_Number) + " < " + str(second_Number))
         else:
             display.scroll(str(first_Number) + " > " + str(second_Number))
-            display.show(Image.HAPPY)
+
+        display.show(Image.SAD)
